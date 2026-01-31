@@ -11,6 +11,7 @@ This project provides a complete, professional-grade solution for validating dat
 **Perfect for**: Database administrators, data engineers, QA teams, and anyone responsible for ensuring data migration accuracy.
 
 ---
+<img width="1151" height="933" alt="Screenshot 2026-02-01 015717" src="https://github.com/user-attachments/assets/d1234057-6f51-4dce-85da-053798c4f527" />
 
 ## 🎯 What's Included
 
@@ -335,4 +336,5 @@ For detailed troubleshooting, see: `Documentation/SQL_Scripts_Guide.md`
 - 🛠️ **Customizable**: Easy to adapt for different schemas
 
 ----           Akshay Jadhav        ---------
+
 
