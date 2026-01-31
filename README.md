@@ -314,18 +314,6 @@ For detailed troubleshooting, see: `Documentation/SQL_Scripts_Guide.md`
 
 ---
 
-## 📞 Support & Resources
-
-### Additional Help
-- **SQL Scripts**: See `Documentation/SQL_Scripts_Guide.md`
-- **Excel Templates**: See `Documentation/Excel_Template_Guide.md`
-- **Complete Process**: See `Documentation/Complete_Workflow.md`
-
-### SQL Server Resources
-- [SQL Server Documentation](https://docs.microsoft.com/sql)
-- [BULK INSERT Reference](https://docs.microsoft.com/sql/t-sql/statements/bulk-insert-transact-sql)
-
----
 
 ## 🎯 Next Steps
 
@@ -346,31 +334,5 @@ For detailed troubleshooting, see: `Documentation/SQL_Scripts_Guide.md`
 - 📊 **Professional**: Excel reporting framework included
 - 🛠️ **Customizable**: Easy to adapt for different schemas
 
----
+----           Akshay Jadhav        ---------
 
-## 📅 Project Information
-
-**Created**: January 31, 2026  
-**Version**: 1.0  
-**Purpose**: Data Migration Validation Learning & Practice  
-**Status**: Complete and Ready to Use  
-
----
-
-## ✨ Ready to Begin?
-
-Start with the **Complete Workflow** guide:
-
-```
-📄 Documentation/Complete_Workflow.md
-```
-
-This will take you through the entire process step-by-step!
-
----
-
-## 🎓 Good Luck with Your Data Migration Validation! 🚀
-
----
-
-**Remember**: Quality data migration validation prevents costly errors and ensures business continuity. Take your time, follow the process, and verify everything! ✅
