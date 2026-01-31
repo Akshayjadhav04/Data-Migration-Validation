@@ -8,6 +8,8 @@
 
 This project provides a complete, professional-grade solution for validating data integrity after database migration. It includes SQL scripts for comprehensive validation checks and Excel templates for clear reporting.
 
+Demonstrates a complete data migration validation workflow using SQL Server and Excel. It validates post-migration data integrity by comparing source and target databases through record count checks, schema validation, key-based missing and extra record detection, value-level data comparison, and data integrity checks. Validation results are exported to Excel to generate a summary dashboard and discrepancy report, simulating a real-world enterprise data migration quality assurance process.
+
 **Perfect for**: Database administrators, data engineers, QA teams, and anyone responsible for ensuring data migration accuracy.
 
 ---
@@ -336,5 +338,6 @@ For detailed troubleshooting, see: `Documentation/SQL_Scripts_Guide.md`
 - 🛠️ **Customizable**: Easy to adapt for different schemas
 
 ----           Akshay Jadhav        ---------
+
 
 
